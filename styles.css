@@ -1,0 +1,39 @@
+#homepage {
+    background-color: aquamarine;
+}
+
+#chicken-parm {
+    background-color: #d23c28;
+    color: #f1f2e2
+}
+
+#pizza {
+    background-color: #e6a61e;
+}
+
+#fried-rice {
+    background-color: #c5945b;
+}
+
+h1 {
+    font-size: 64px;
+    font-family: Consolas, monaco, monospace;
+}
+
+#homepage h1 {
+    background-color: teal;
+}
+
+#chicken-parm h2{
+    color: #f2d885;
+}
+
+#fried-rice h1{
+
+}
+
+#pizza h1{
+
+}
+
+
